@@ -93,7 +93,7 @@ The main application-specific implementation is organized around:
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/olufemi-builds/data-quality-monitor.git
 cd data-quality-monitor
 ```
 
